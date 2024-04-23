@@ -7,5 +7,10 @@ public class Main{
         System.out.println(new Date());
         System.out.println("Hello");
         System.out.println("My name is Nisha Saraswat");
+<<<<<<< HEAD
+=======
+        Student stu = new Student();
+        stu.hello();
+>>>>>>> c4b48c8 (Student added)
     }
 }
