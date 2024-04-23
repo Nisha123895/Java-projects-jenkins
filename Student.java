@@ -7,6 +7,7 @@ public class Student {
 
     public void hello(){
         System.out.println("Hi, This is Student");
+        System.out.println("This is Second Student");
     }
     
 }
