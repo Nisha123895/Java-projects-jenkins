@@ -9,6 +9,6 @@ public class Main{
         System.out.println("My name is Nisha Saraswat");
         Student stu = new Student();
         stu.hello();
-        System.out.println("This is done by Nisha");
+        System.out.println("This is done by Nisha Saraswat");
     }
 }
